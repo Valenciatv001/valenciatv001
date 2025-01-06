@@ -9,8 +9,8 @@
 
 - 👨‍🎓 **Bachelor's degree** (Business Education) **graduate** in **Business Education** from the **Faculty of Arts** at the **Lead City University, Nigeria**,
 
-- 👨‍💻 **Mobile Developer Instructor** at [**YENOVAS OPEN UNIVERSITY**](https://www.linkedin.com/company/yonevas-open-university/mycompany/) with **2 years** of working experience,
-- 👨‍💻 **Mobile Engineer** at [**MAHDUMO**](https://linkedin.com/company/mahdumo-enterprise-ltd/mycompany/) with **2 years** of working experience,
+- 👨‍💻 **Mobile Developer Instructor** at [**YENOVAS OPEN UNIVERSITY**](https://www.linkedin.com/company/yonevas-open-university/mycompany/) with **3 years** of working experience,
+- 👨‍💻 **Mobile Engineer** at [**MAHDUMO**](https://linkedin.com/company/mahdumo-enterprise-ltd/mycompany/) with **3 years** of working experience,
 
 - ⏲️ In my free time, I listen to **music** 🎧, watch **movies** 🎥, read **tech articles** 📰 and do workouts at the gym 🏋️‍♂️,
 
