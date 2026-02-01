@@ -39,7 +39,7 @@
 
 ### 🎓 Background
 
-- **Bachelor's degree** in Business Education from **Lead City University, Nigeria**
+- **Bachelor's & MSc degree** in Economics from **Lead City University, Nigeria**
 - **4+ years** professional mobile development experience
 - **Passionate about** integrating AI and voice-driven experiences into modern mobile systems
 
